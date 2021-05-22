@@ -3,7 +3,7 @@
     "name": "Ghulam Rasool",
     "occupation": "Tech Lead / Project Manager",
     "description": "I love to code and breathe React, ReactNative, Ionic, NodeJS, Angular and most Importan PHP(Laravel)",
-    "image": "profilepic.jpg",
+    "image": "profile_pic.jpeg",
     "bio": "Experienced Principal Software Engineer with expertise in all aspects of the software development life cycle, including requirements analysis, design, development, and production support. Self-directed and motivated Software Engineer experienced working effectively in dynamic environments. Fluent in (PHP, React, React Native, Ionic, AngularJs, Laravel, CodeIgniter, MySQL, No-SQL) and PHP, Python programming languages. Decisive problem-solver and an organized leader able to handle diverse project types and sizes. Offering 12 years' experience and the drive to make a difference for business and customers. Passionate to learn new technologies and I'm a solution provider.",
     "contactmessage": "Get in touch with me!",
     "email": "sanglavi@hotmail.com",
@@ -14,12 +14,12 @@
       "state": "Punjab",
       "zip": "54000"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.linkedin.com/in/joblesspoet/",
+    "resumedownload": "https://www.linkedin.com/in/joblesspoet/",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCDSmKD1uftux3n0okgPx9gA",
         "className": "fa fa-youtube"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/sanglavi/",
+        "url": "https://www.instagram.com/joblesspoet/",
         "className": "fa fa-instagram"
       },
       {
@@ -48,9 +48,9 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Virtual University of Pakistan",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "graduated": "Jan 2007",
         "description": "Graduated with First Class Honours"
       }
     ],
